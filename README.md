@@ -28,7 +28,3 @@ cliskillbox
 
 ## Contributing
 Feel free to fork this project and submit pull requests for any enhancements or bug fixes!
-
-## License
-This project is licensed under the MIT License.
-```
